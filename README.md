@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1>Hisui's room</h1>
+Lazing around
 
-<!--
-**AmaseHisui/AmaseHisui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+<a href="https://ko-fi.com/hisui_comet">
+  <img src="assets/images/support_me_on_kofi_blue.png" alt="ko-fi link" style="width:250px;">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Metrix](./github-metrics.svg)
+
+---
+
+<h3>TOOLS</h3>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=windows,github,idea,vscode,visualstudio,unity,ai,ps,pr,ae" />
+</a>
+
+<h3>LANGUAGES</h3>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,cs,lua" />
+</a>
+
+---
+
+About the use of AI
+- My text data may include AI-generated parts.
+- My image, video, and audio data do not use AI generation.
